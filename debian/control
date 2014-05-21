@@ -1,0 +1,12 @@
+Source: ros-hydro-view-controller-msgs
+Section: misc
+Priority: extra
+Maintainer: Adam Leeper <adamleeper@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-genmsg, ros-hydro-geometry-msgs, ros-hydro-message-generation, ros-hydro-std-msgs
+Homepage: http://ros.org/wiki/view_controller_msgs
+Standards-Version: 3.9.2
+
+Package: ros-hydro-view-controller-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-geometry-msgs, ros-hydro-message-runtime, ros-hydro-std-msgs
+Description: Messages for (camera) view controllers
