@@ -1,0 +1,12 @@
+Source: ros-indigo-view-controller-msgs
+Section: misc
+Priority: extra
+Maintainer: Adam Leeper <adamleeper@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-genmsg, ros-indigo-geometry-msgs, ros-indigo-message-generation, ros-indigo-std-msgs
+Homepage: http://ros.org/wiki/view_controller_msgs
+Standards-Version: 3.9.2
+
+Package: ros-indigo-view-controller-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-geometry-msgs, ros-indigo-message-runtime, ros-indigo-std-msgs
+Description: Messages for (camera) view controllers
