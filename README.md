@@ -1,3 +1,26 @@
+## view_controller_msgs (lunar) - 0.1.3-0
+
+The packages in the `view_controller_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -y view_controller_msgs --rosdistro lunar --track lunar` on `Wed, 05 Sep 2018 03:26:27 -0000`
+
+The `view_controller_msgs` package was released.
+
+Version of package(s) in repository `view_controller_msgs`:
+
+- upstream repository: https://github.com/ros-visualization/view_controller_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.1.2-0`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## view_controller_msgs (melodic) - 0.1.2-0
 
 The packages in the `view_controller_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y view_controller_msgs --rosdistro melodic --track melodic` on `Wed, 05 Sep 2018 02:57:21 -0000`
