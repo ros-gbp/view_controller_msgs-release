@@ -1,3 +1,26 @@
+## view_controller_msgs (noetic) - 0.1.3-1
+
+The packages in the `view_controller_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -y --skip-pip view_controller_msgs --rosdistro noetic --track noetic` on `Tue, 13 Oct 2020 04:11:21 -0000`
+
+The `view_controller_msgs` package was released.
+
+Version of package(s) in repository `view_controller_msgs`:
+
+- upstream repository: https://github.com/ros-visualization/view_controller_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## view_controller_msgs (melodic) - 0.1.3-0
 
 The packages in the `view_controller_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y view_controller_msgs --rosdistro melodic --track melodic` on `Wed, 05 Sep 2018 03:30:37 -0000`
