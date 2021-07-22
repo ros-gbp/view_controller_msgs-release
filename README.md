@@ -1,4 +1,3 @@
-view_controller_msgs [![Build Status](https://travis-ci.org/ros-visualization/view_controller_msgs.svg?branch=hydro-devel)](https://travis-ci.org/ros-visualization/view_controller_msgs)
-=========================================================================================================================================================================================
+# view_controller_msgs [![ROS 1 CI](https://github.com/ros-visualization/view_controller_msgs/actions/workflows/ros_ci.yml/badge.svg?branch=noetic-devel)](https://github.com/ros-visualization/view_controller_msgs/actions/workflows/ros_ci.yml) 
 
-Messages for ROS view controllers.
+Messages for ROS view controllers
